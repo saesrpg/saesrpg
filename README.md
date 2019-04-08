@@ -5,4 +5,4 @@
 
 ## Information
 
-This is a dummy repo for issue tracking of the current SAES:RPG (v1.4) MTA server.
+This is a dummy repo for issue tracking of the current SAES:RPG MTA server.
