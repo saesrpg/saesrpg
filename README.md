@@ -5,4 +5,4 @@
 
 ## Information
 
-This is a dummy repo for issue tracking of the current SAES:RPG MTA server.
+This is now tracked on https://saesrpg.uk
