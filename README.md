@@ -1,5 +1,5 @@
 # SAES:RPG
-<img align="right" height="200" src="https://saesrpg.uk/assets/uploads/system/site-logo.png">
+<img align="right" height="100" src="https://saesrpg.uk/custom/images/site-logo.png">
 
 Welcome to the **SAES:RPG** GitHub organisation.  
 This space is used to manage **feedback, issues, and requests** related to the **SAES:RPG MTA** server.
