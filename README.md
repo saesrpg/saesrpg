@@ -1,8 +1,38 @@
 # SAES:RPG
 <img align="right" height="200" src="https://saesrpg.uk/assets/uploads/system/site-logo.png">
+Welcome to the **SAES:RPG** GitHub organisation.  
+This space is used to manage **feedback, issues, and requests** related to the **SAES:RPG MTA** server.
 
-----------
+## 📌 Available Repositories
 
-## Information
+### 🐞 [issues](https://github.com/saesrpg/issues)
+Use this repository to **report bugs or general server issues**.  
+Please include steps to reproduce, expected behaviour, and any relevant screenshots or logs.
 
-This is now tracked on https://saesrpg.uk
+---
+
+### 🚗 [vehicle-wraps](https://github.com/saesrpg/vehicle-wraps)
+Submit **vehicle wrap requests** here.  
+Ensure your request follows the format provided in the issue template (including vehicle model, gang/group, and wrap preview).
+
+---
+
+### ⚙️ [features-changes](https://github.com/saesrpg/features-changes)
+Propose **new features, gameplay tweaks, or balance changes**.  
+Use this space for creative suggestions and system improvements to enhance player experience.
+
+---
+
+### 🧑‍🤝‍🧑 [organisations](https://github.com/saesrpg/organisations)
+Report **gang and group-related issues** or submit **change requests** for your organisation.  
+This includes base edits, spawn adjustments etc.
+
+---
+
+## 💬 Contributing
+Each repository has its own **issue templates** and **guidelines**.  
+Before submitting, please:
+1. Check if an issue already exists for your topic.  
+2. Follow the correct template and provide as much detail as possible.  
+3. Keep discussions respectful and focused.
+
