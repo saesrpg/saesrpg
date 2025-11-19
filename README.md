@@ -18,8 +18,8 @@ Ensure your request follows the format provided in the issue template (including
 
 ---
 
-### ⚙️ [features-changes](https://github.com/saesrpg/features-changes)
-Propose **new features, gameplay tweaks, or balance changes**.  
+### ⚙️ [features-changes](https://discord.com/channels/229936715383439361/1440632787903316101)
+Propose **new features, gameplay tweaks, or balance changes**. (This is done via Discord) 
 Use this space for creative suggestions and system improvements to enhance player experience.
 
 ---
